@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KwaneleGadlela
 - 👀 I’m interested in web development and software engineering 
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on web applications and software application as well
+- 💞️ I’m looking to collaborate on software & web applications 
 - 📫 How to reach me gadlelakwanelefana@gmail.com
 
 <!---
